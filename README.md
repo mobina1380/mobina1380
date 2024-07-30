@@ -8,11 +8,9 @@
   
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</div>
 
-# :rocket: I am Data Scientist - a Front end Developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40">  👋
+
+# :rocket: I am Data Scientist - SoftWare Engineer- FrontEnd Developer  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40">  👋
 
 I am a young and hard-working girl, it doesn't matter in what field I enter in any field, I will do my best, I am very interested in solving programming challenges. It has been a while since I entered the fields of machine learning and deep learning and artificial intelligence
 
