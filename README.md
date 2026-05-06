@@ -8,7 +8,7 @@
 # 🚀 I am AI Engineer • Data Scientist
 
 Passionate about building intelligent systems using Artificial Intelligence, Deep Learning, and Multimodal Learning.  
-I enjoy solving complex problems, exploring new technologies, and developing AI models that can understand speech, language, and human emotions.
+I enjoy solving complex problems, exploring new technologies, and developing AI models for speech and language understanding.
 
 ---
 
